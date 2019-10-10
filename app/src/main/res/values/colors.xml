@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#212121</color>
+
+
+    <!-- These are the colors I want for my app -->
+    <color name="category_theme_parks">#009688</color>
+    <color name="category_restaurants">#e65100</color>
+    <color name="category_historic_sites">#7C4DFF</color>
+    <color name="category_family_friendly">#0d47a1</color>
+    <color name="main_background_color">#757575</color>
+
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Virginia Tour Guide</string>
+    <string name="food">Food</string>
+    <string name="land_marks">Hist. Landmarks</string>
+    <string name="theme_parks">Theme Parks</string>
+    <string name="kids">Kids</string>
+
+    <string name ="restaurant_1">El Paisa Colombian Restaurant</string>	<string name ="restaurant_ph_1">(757) 233-3976</string>	<string name ="restaurant_address_1">665 Newtown Rd #111, Virginia Beach, VA 23462</string>
+    <string name ="restaurant_2">Bilus Restaurant</string>	<string name ="restaurant_ph_2">(757) 499-1027</string>	<string name ="restaurant_address_2">544 Newtown Rd #100, Virginia Beach, VA 23462</string>
+    <string name ="restaurant_3">The Greene Turtle Sports Bar and Grille</string>	<string name ="restaurant_ph_3">(757) 838-3854</string>	<string name ="restaurant_address_3">3610 Von Schilling Dr, Hampton, VA 23666</string>
+    <string name ="restaurant_4">First Watch - Hampton</string>	<string name ="restaurant_ph_4">(757) 506-0335</string>	<string name ="restaurant_address_4">2011 Von Schilling Dr, Hampton, VA 23666</string>
+    <string name ="restaurant_5">Food Craft</string>	<string name ="restaurant_ph_5">(757) 234-6940</string>	<string name ="restaurant_address_5">5005 Victory Blvd, Yorktown, VA 23693</string>
+
+    <string name ="land_marks_1">Yorktown Victory Monument</string>	<string name ="land_marks_ph_1">(757) 898-2410</string>	<string name ="land_marks_address_1">803 Main St, Yorktown, VA 23690</string>
+    <string name ="land_marks_2">Bacon\'s Castle</string>	<string name ="land_marks_ph_2">(757) 357-5976</string>	<string name ="land_marks_address_2">465 Bacons Castle Trail, Surry, VA 23883</string>
+    <string name ="land_marks_3">Cape Henry Lighthouse</string>	<string name ="land_marks_ph_3">(757) 422-9421</string>	<string name ="land_marks_address_3">583 Atlantic Ave, Fort Story, VA 23459</string>
+    <string name ="land_marks_4">Peyton Randolph House</string>	<string name ="land_marks_ph_4">(800) 447-8679</string>	<string name ="land_marks_address_4">100 W Nicholson St, Williamsburg, VA 23185</string>
+    <string name ="land_marks_5">The Thoroughgood House</string>	<string name ="land_marks_ph_5">(757) 385-5100</string>	<string name ="land_marks_address_5">1636 Parish Rd, Virginia Beach, VA 23455</string>
+
+    <string name ="theme_park_1">Busch Gardens Williamsburg</string> <string name ="theme_park_ph_1">(757) 229-4386</string>	<string name ="theme_park_address_1">1 Busch Gardens Blvd, Williamsburg, VA 23185</string>
+    <string name ="theme_park_2">Kings Dominion</string>	<string name ="theme_park_ph_2">(804) 876-5000</string>	<string name ="theme_park_address_2">16000 Theme Park Way, Doswell, VA 23047</string>
+    <string name ="theme_park_3">Water Country USA</string>	<string name ="theme_park_ph_3">(757) 229-4386</string>	<string name ="theme_park_address_3">176 Water Country Pkwy, Williamsburg, VA 23185</string>
+    <string name ="theme_park_4">SplashDown Waterpark</string>	<string name ="theme_park_ph_4">(703) 792-8204</string>	<string name ="theme_park_address_4">7500 Ben Lomond Park Rd, Manassas, VA 20109</string>
+    <string name ="theme_park_5">Go-Karts Plus</string>	<string name ="theme_park_ph_5">(757) 564-7600</string>	<string name ="theme_park_address_5">6910 Richmond Rd, Williamsburg, VA 23188</string>
+
+    <string name ="kid_1">Virginia Living Museum</string>	<string name ="kid_ph_1">(757) 595-1900</string>	<string name ="kid_address_1">524 J Clyde Morris Blvd, Newport News, VA 23601</string>
+    <string name ="kid_2">Virginia Aquarium and Marine Science Center</string>	<string name ="kid_ph_2">(757) 385-3474</string>	<string name ="kid_address_2">717 General Booth Blvd, Virginia Beach, VA 23451</string>
+    <string name ="kid_3">The Mariners\' Museum</string>	<string name ="kid_ph_3">(757) 596-2222</string>	<string name ="kid_address_3">100 Museum Dr, Newport News, VA 23606</string>
+    <string name ="kid_4">Virginia Air and Space Center</string>	<string name ="kid_ph_4">(757) 727-0900</string>	<string name ="kid_address_4">600 Settlers Landing Rd, Hampton, VA 23669</string>
+    <string name ="kid_5">Norfolk Botanical Garden</string>	<string name ="kid_ph_5">(757) 441-5830</string>	<string name ="kid_address_5">6700 Azalea Garden Rd, Norfolk, VA 23518</string>
+
+
+</resources>
